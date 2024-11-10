@@ -1277,7 +1277,7 @@ footer {
 .modal-btn {
     display: block;
     margin-top: 24px;
-    margin-left: 119px;
+    margin-left: 48px;
 
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -1305,6 +1305,10 @@ footer {
         min-height: 584px;
 
         padding: 72px 24px 24px 24px;
+    }
+
+    .modal-btn {
+        margin-left: 119px;
     }
 }
 

@@ -530,6 +530,10 @@ button {
         .icons-values {
             display: none;
         }
+
+        .header-values {
+            text-align: left;
+        
 }
 
 @media screen and (min-width: 1158px) {
@@ -1019,7 +1023,7 @@ footer {
     }
 
     .container-link-paragraph {
-        margin: 0 120px 100px auto;
+        margin: 0 120px 0 auto;
     }
 
     .container-social {

@@ -986,7 +986,7 @@ footer {
           max-width: 264px;
           max-height: 112px;
           align-items: baseline;
-          margin: 0 24px 72px auto;
+          margin: 0 24px 72px 0;
         }
         
         .container-social {
@@ -1013,7 +1013,9 @@ footer {
 
 @media screen and (min-width: 1158px) {
     .footer-container {
+        max-width: 1158px;
         display: flex;
+        flex-direction: row;
     }
 
     .container-link-paragraph {
